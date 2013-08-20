@@ -46,6 +46,20 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/mikegrb/Weather-NOAA-Alert-ToTweet/issues"
+      },
+      "homepage" : "https://github.com/mikegrb/Weather-NOAA-Alert-ToTweet",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/mikegrb/Weather-NOAA-Alert-ToTweet.git",
+         "web" : "https://github.com/mikegrb/Weather-NOAA-Alert-ToTweet"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "mikegrb <mgreb@linode.com>"
+   ]
 }
 
