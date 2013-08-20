@@ -2,13 +2,13 @@
 
 use strict;
 use warnings;
-use 5.010;
+use 5.008_005;
 
 use YAML::Tiny;
 use Net::Twitter;
 use Data::Dumper;
 use Weather::NOAA::Alert;
-use Weather::NOAA::Alert::ToTweet;
+use Weather::NOAA::Alert::ToTweet 'generate_tweet_from_alert';
 
 my $consumer_key        = '';
 my $consumer_secret     = '';
@@ -158,44 +158,36 @@ my %event_gets_tweeted = (
 );
 
 my $yaml = YAML::Tiny->read( $seen_alerts_path ) || YAML::Tiny->new;
-
 my $new_alerts = 0;
 
-try {
-    my $alert = Weather::NOAA::Alert->new( [$noaa_county_zone] );
-    $alert->errorLog(1);
-    $alert->poll_events();
+my $alert = Weather::NOAA::Alert->new( [$noaa_county_zone] );
+$alert->errorLog(1);
+$alert->poll_events();
 
-    my $events = $alert->get_events()->{$noaa_county_zone};
-    for my $event ( keys %{$events} ) {
-        next if ( $yaml->[0]{seen_cap}{$event} );
-        $yaml->[0]->{seen_cap}{$event} = localtime;
-        $new_alerts++;
+my $events = $alert->get_events()->{$noaa_county_zone};
+for my $event ( keys %{$events} ) {
+    next if ( $yaml->[0]{seen_cap}{$event} );
+    $yaml->[0]->{seen_cap}{$event} = localtime;
+    $new_alerts++;
 
-        say Dumper( $events->{$event} );
+    print Dumper( $events->{$event} );
 
-        my $tweet
-            = Weather::NOAA::Alert::ToTweet::generate_tweet_from_alert( $event,
-            $events->{$event}, $county_string );
+    my $tweet
+        = generate_tweet_from_alert( $event, $events->{$event}, $county_string );
 
-        print "Generated Tweet:\n\t$tweet\n";
+    print "Generated Tweet:\n\t$tweet\n";
 
-        if ( $event_gets_tweeted{ $events->{$event}{event} } ) {
-            my $nt = Net::Twitter->new(
-                traits              => [qw/OAuth API::RESTv1_1/],
-                consumer_key        => $consumer_key,
-                consumer_secret     => $consumer_secret,
-                access_token        => $access_token,
-                access_token_secret => $access_token_secret,
-            );
-            $nt->update($tweet);
-            print "Tweeted.\n";
-        }
+    if ( $event_gets_tweeted{ $events->{$event}{event} } ) {
+        my $nt = Net::Twitter->new(
+            traits              => [qw/OAuth API::RESTv1_1/],
+            consumer_key        => $consumer_key,
+            consumer_secret     => $consumer_secret,
+            access_token        => $access_token,
+            access_token_secret => $access_token_secret,
+        );
+        $nt->update($tweet);
+        print "Tweeted.\n";
     }
 }
-catch {
-    die $_
-        unless $_ =~ m/^Can't call method "children" on an undefined value/;
-};
 
 $yaml->write($seen_alerts_path) if $new_alerts;
