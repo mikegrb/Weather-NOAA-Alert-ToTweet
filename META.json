@@ -1,5 +1,5 @@
 {
-   "abstract" : "generate a string for tweeting from a\nWeather::NOAA::Alert event data structure",
+   "abstract" : "generate tweet from Weather::NOAA::Alert event data structure",
    "author" : [
       "Mike Greb <michael@thegrebs.com>"
    ],

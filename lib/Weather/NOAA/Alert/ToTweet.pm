@@ -49,8 +49,7 @@ __END__
 
 =head1 NAME
 
-Weather::NOAA::Alert::ToTweet - generate a string for tweeting from a
-Weather::NOAA::Alert event data structure
+Weather::NOAA::Alert::ToTweet - generate tweet from Weather::NOAA::Alert event data structure
 
 =head1 SYNOPSIS
   

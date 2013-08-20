@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "generate a string for tweeting from a\nWeather::NOAA::Alert event data structure",
+  "ABSTRACT" => "generate tweet from Weather::NOAA::Alert event data structure",
   "AUTHOR" => "Mike Greb <michael\@thegrebs.com>",
   "BUILD_REQUIRES" => {},
   "CONFIGURE_REQUIRES" => {
