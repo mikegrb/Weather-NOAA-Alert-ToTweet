@@ -1,0 +1,134 @@
+@NWSSPC	NWS SPC
+@NWSLMRFC	NWS LMRFC
+@NWSABRFC	NWS ABRFC
+@NWSWGRFC	NWS WGRFC
+@NWS_PTWC	NWS PTWC
+@NWSOHRFC	NWS OHRFC
+@NWSMARFC	NWS MARFC
+@NWSGSP	NWS GSP
+
+@NWS_MountHolly	NWS Mount Holly
+@NWSNorman	NWS Norman
+@NWSVegas	NWS Las Vegas
+@NWSSaltLakeCity	NWS Salt Lake City
+@NWSSanDiego	NWS San Diego
+@NWSNewYorkNY	NWS New York NY
+@NWSBoston	NWS Boston
+@NWSTwinCities	NWS Twin Cities
+@NWSPhoenix	NWS Phoenix
+@NWStulsa	NWS Tulsa
+@NWS_WCATWC	NWS Tsunami Alerts
+@NWSKansasCity	NWS Kansas City
+@NWSMobile	NWS Mobile
+@NWSChicago	NWS Chicago
+@NWSMiami	NWS Miami
+@NWSLosAngeles	NWS Los Angeles
+@NWSAtlanta	NWS Atlanta
+@NWSSpringfield	NWS Springfield
+@NWSBlacksburg	NWS Blacksburg
+@NWSFortWorth	NWS Fort Worth
+@NWSStLouis	NWS St. Louis
+@NWSMelbourne	NWS Melbourne
+@NWSFlagstaff	NWS Flagstaff
+@NWSKeyWest	NWS Key West
+@NWSBirmingham	NWS Birmingham
+@NWSBurlington	NWS Burlington
+@NWSPittsburgh	NWS Pittsburgh
+@NWSTallahassee	NWS Tallahassee
+@NWSLittleRock	NWS Little Rock
+@NWSILN	NWS Wilmington OH
+@NWSRaleigh	NWS Raleigh
+@NWSMemphis	NWS Memphis
+@NWSIWX	NWS Northern Indiana
+@NWSSpaceflight	NWS Spaceflight
+@NWSDesMoines	NWS Des Moines
+@NWSWichita	NWS Wichita
+@NWSAlbany	NWS Albany
+@NWSAnchorage	NWS Anchorage
+@NWSPaducah	NWS Paducah
+@NWSTampaBay	NWS Tampa Bay
+@NWSIndianapolis	NWS Indianapolis
+@NWSAlbuquerque	NWS Albuquerque
+@NWSReno	NWS Reno
+@NWSLouisville	NWS Louisville
+@NWSSeattle	NWS Seattle
+@NWSStateCollege	NWS State College
+@NWSElPaso	NWS El Paso
+@NWSBoulder	NWS Boulder
+@NWSLakeCharles	NWS Lake Charles
+@NWSPueblo	NWS Pueblo
+@NWSSacramento	NWS Sacramento
+@NWSHuntsville	NWS Huntsville
+@NWSSiouxFalls	NWS Sioux Falls
+@NWSLaCrosse	NWS La Crosse
+@NWSTucson	NWS Tucson
+@NWSNorthPlatte	NWS North Platte
+@NWSAmarillo	NWS Amarillo
+@NWSShreveport	NWS Shreveport
+@NWSGoodland	NWS Goodland
+@NWSTopeka	NWS Topeka
+@NWSCorpus	NWS Corpus Christi
+@NWSMedford	NWS Medford
+@NWSGrandRapids	NWS Grand Rapids
+@NWSQuadCities	NWS Quad Cities
+@NWSSanAngelo	NWS San Angelo
+@NWSSanJuan	NWS San Juan
+@NWSBillings	NWS Billings
+@NWSGlasgow	NWS Glasgow
+@NWSMarquette	NWS Marquette
+@NWSGreatFalls	NWS Great Falls
+@NWSEureka	NWS Eureka
+@NWSElko	NWS Elko
+@NWSDetroit	NWS Detroit
+@NWSGaylord	NWS Gaylord
+@NWSJacksonKY	NWS Jackson, KY
+@NWSGreenBay	NWS Green Bay
+@NWSBrownsville	NWS Brownsville
+@NWSGray	NWS Gray
+@NWSBismarck	NWS Bismarck
+@NWSOmaha	NWS Omaha
+@NWSHastings	NWS Hastings
+@NWSDodgeCity	NWS Dodge City
+@NWSMissoula	NWS Missoula
+@NWSMidland	NWS Midland
+@NWSColumbia	NWS Columbia
+@NWSGrandForks	NWS Grand Forks
+@NWSAberdeen	NWS Aberdeen
+@NWSSpokane	NWS Spokane
+@NWSLubbock	NWS Lubbock
+@NWSLincolnIL	NWS Lincoln IL
+@NWSCLE	NWS Cleveland
+@NWSHanford	NWS Hanford
+@NWSPendleton	NWS Pendleton
+@NWSFairbanks	NWS Fairbanks
+@NWSPocatello	NWS Pocatello
+@NWSWilmingtonNC	NWS Wilmington NC
+@NWSCWSUZSE	NWS CWSU Seattle
+@NWSBoise	NWS Boise
+@NWSJuneau	NWS Juneau
+@NWSRapidCity	NWS Rapid City
+@NWSGJT	NWS Grand Junction
+@NWSRiverton	NWS Riverton
+@NWSBUFFALO	NWS BUFFALO
+@NWSNERFC	NWS Northeast RFC
+@NWS_IMET_OPS	NWS IMET Operations
+@NWSCheyenne	NWS Cheyenne
+@NWS_BaltWash	NWS DC/Baltimore
+@NWSPortland	NWS Portland
+@NWSCharlestonSC	NWS Charleston, SC
+@NWSJacksonMS	NWS Jackson MS
+@NWSMoreheadCity	NWS Newport/Morehead
+@NWSCaribou	NWS Caribou
+@NWSMBRFC	NWS MBRFC
+@NWSJacksonville	NWS Jacksonville
+@NWSWakefieldVA	NWS Wakefield
+@NWSBayArea	NWS BayArea
+@NWSNewOrleans	NWS NewOrleans
+@NWSNashville	NWS Nashville
+@NWSHouston	NWS Houston
+@NWSMKX	NWS MilwaukeeSullivan
+@NWSCharlestonWV	NWS CharlestonWV
+@NWSSanAntonio	NWS SanAntonio
+@NWSBinghamton	NWS Binghamton
+@NWSMorristown	NWS Morristown
+@NWSHonolulu	NWS Honolulu
