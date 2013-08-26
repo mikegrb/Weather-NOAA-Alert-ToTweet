@@ -1,0 +1,128 @@
+@NWSSPC             NWS Storm Prediction Center (Storm Prediction Center - Norman, Oklahoma)
+@NWSNERFC           ### NE River Forecast Center
+
+@NWSAberdeen        NWS Aberdeen (Northern and Northeastern South Dakota)
+@NWSAlbany
+@NWSAlbuquerque
+@NWSAmarillo
+@NWSAnchorage
+@NWSAtlanta
+@NWSBUFFALO         NWS Buffalo (Western New York)
+@NWSBayArea
+@NWSBillings
+@NWSBinghamton
+@NWSBirmingham
+@NWSBismarck
+@NWSBlacksburg
+@NWSBoise           NWS Boise (Southwestern Idaho and Eastern Oregon)
+@NWSBoston
+@NWSBoulder
+@NWSBrownsville
+@NWSBurlington
+@NWSCLE             ### Cleveland
+@NWSCWSUZSE
+@NWSCaribou
+@NWSCharlestonSC    NWS Charleston (the Southern end of South Carolina and Eastern Georgia)
+@NWSCharlestonWV
+@NWSCheyenne
+@NWSChicago         NWS Chicago (Northeastern Illinois and Northwestern Indiana)
+@NWSColumbia
+@NWSCorpus          NWS Corpus Christi (Corpus Cristi, Victoria and Laredo)
+@NWSDesMoines       NWS DesMoines (Central Iowa)
+@NWSDetroit
+@NWSDodgeCity
+@NWSElPaso
+@NWSElko
+@NWSEureka
+@NWSFairbanks       NWS Fairbanks (Northern Alaska - Fairbanks)
+@NWSFlagstaff       NWS Flagstaff (Northern Arizona)
+@NWSFortWorth
+@NWSGJT             NWS GrandJunction (Western Colorado and Eastern Utah)
+@NWSGaylord
+@NWSGlasgow
+@NWSGoodland
+@NWSGrandForks      NWS Eastern ND and Grand Forks (Northeastern North Dakota and Northwestern Minnesota) ###
+@NWSGrandRapids     NWS Grand Rapids (Southwestern Michigan)
+@NWSGray
+@NWSGreatFalls
+@NWSGreenBay        NWS GreenBay (East Central Wisconsin - Green Bay)
+@NWSHanford         NWS Hanford (South Central California)
+@NWSHastings
+@NWSHonolulu        NWS Honolulu (Hawaii)
+@NWSHouston         NWS Houston - Galveston (Houston - Galveston)
+@NWSHuntsville
+@NWSILN             ### Wilmington OH
+@NWSIWX             NWS NorthernIndiana (Northern Indiana and Northeastern Ohio)
+@NWSIndianapolis    NWS Indianapolis (Central Indiana)
+@NWSJacksonKY
+@NWSJacksonMS
+@NWSJacksonville    NWS Jacksonville (Northeast Florida and Southeast Georgia)
+@NWSJuneau
+@NWSKansasCity      NWS Kansas City (Northwestern Missouri)
+@NWSKeyWest
+@NWSLaCrosse        NWS LaCrosse (Southwestern Wisconsin, Southeastern Minnesota, and Northeast Iowa)
+@NWSLakeCharles
+@NWSLincolnIL       NWS Central Illinois (Central and East Central Illinois)
+@NWSLittleRock      NWS Little Rock (Arkansas)
+@NWSLosAngeles      NWS Oxnard (The Los Angeles Area)
+@NWSLouisville
+@NWSLubbock
+@NWSMBRFC
+@NWSMKX             ### milwaukee
+@NWSMarquette       NWS Marquette (Northern Michigan)
+@NWSMedford
+@NWSMelbourne
+@NWSMemphis
+@NWSMiami           NWS Miami (Southern Florida)
+@NWSMidland
+@NWSMissoula
+@NWSMobile
+@NWSMoreheadCity    NWS Newport/Morehead City (Eastern North Carolina)
+@NWSMorristown
+@NWSNashville
+@NWSNewOrleans
+@NWSNewYorkNY
+@NWSNorman
+@NWSNorthPlatte
+@NWSOmaha           NWS Omaha (Eastern Nebraska and Southeastern Iowa - Omaha Valley)
+@NWSPaducah         NWS Paducah (Southern Illinois and Indiana, Southeastern Missouri and Western Kentucky)
+@NWSPendleton
+@NWSPhoenix         NWS Phoenix (Central Arizona and California Desert)
+@NWSPittsburgh
+@NWSPocatello       NWS Pocatello (Southeastern Idaho)
+@NWSPortland
+@NWSPueblo
+@NWSQuadCities      NWS QuadCities (Eastern Iowa and Northwestern Illinois - Quad Cities)
+@NWSRaleigh
+@NWSRapidCity
+@NWSReno
+@NWSRiverton        NWS Riverton (Western Wyoming)
+@NWSSacramento
+@NWSSaltLakeCity    NWS Saltlake (Utah)
+@NWSSanAngelo
+@NWSSanAntonio
+@NWSSanDiego        NWS SanDiego (Southwestern California)
+@NWSSanJuan         NWS San Juan (San Juan, Puerto Rico)
+@NWSSeattle
+@NWSShreveport
+@NWSSiouxFalls      NWS Sioux Falls (Southeastern SD, Southwestern MN, and Northwestern IA)
+@NWSSpaceflight
+@NWSSpokane         NWS Spokane (Eastern Washington and Northern Idaho)
+@NWSSpringfield
+@NWSStLouis
+@NWSStateCollege
+@NWSTallahassee     NWS Tallahassee (the Florida Peninsula)
+@NWSTampaBay        NWS Tampa Bay (West Central Florida)
+@NWSTopeka
+@NWSTucson
+@NWSTwinCities      NWS Minneapolis (Southern Minnesota)
+@NWSVegas           NWS LasVegas (Southern Nevada, Southeastern California, Northwestern Arizona)
+@NWSWakefieldVA
+@NWSWichita
+@NWSWilmingtonNC
+@NWS_BaltWash
+@NWS_IMET_OPS
+@NWS_MountHolly     NWS Philadelphia - Mount Holly (New Jersey, Delaware, Southeastern Pennsylvania)
+@NWS_WCATWC
+@NWSduluth          NWS Duluth (Northeast Minnesota and Northern Wisconsin)
+@NWStulsa
