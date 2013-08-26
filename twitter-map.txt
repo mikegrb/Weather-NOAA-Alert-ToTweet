@@ -10,7 +10,7 @@
 @NWSBUFFALO         NWS Buffalo (Western New York)
 @NWSBayArea
 @NWSBillings
-@NWSBinghamton
+@NWSBinghamton      NWS Binghamton (South Central New York and Northeastern Pennsylvania)
 @NWSBirmingham
 @NWSBismarck
 @NWSBlacksburg
@@ -61,14 +61,14 @@
 @NWSKansasCity      NWS Kansas City (Northwestern Missouri)
 @NWSKeyWest
 @NWSLaCrosse        NWS LaCrosse (Southwestern Wisconsin, Southeastern Minnesota, and Northeast Iowa)
-@NWSLakeCharles
+@NWSLakeCharles     NWS Lake Charles (Southeast Texas and Southwest Louisiana)
 @NWSLincolnIL       NWS Central Illinois (Central and East Central Illinois)
 @NWSLittleRock      NWS Little Rock (Arkansas)
 @NWSLosAngeles      NWS Oxnard (The Los Angeles Area)
 @NWSLouisville
 @NWSLubbock
 @NWSMBRFC
-@NWSMKX             ### milwaukee
+@NWSMKX             NWS Milwaukee (Southern and Southeastern Wisconsin)
 @NWSMarquette       NWS Marquette (Northern Michigan)
 @NWSMedford
 @NWSMelbourne
@@ -114,7 +114,7 @@
 @NWSTallahassee     NWS Tallahassee (the Florida Peninsula)
 @NWSTampaBay        NWS Tampa Bay (West Central Florida)
 @NWSTopeka
-@NWSTucson
+@NWSTucson          NWS Tucson (Southern Arizona)
 @NWSTwinCities      NWS Minneapolis (Southern Minnesota)
 @NWSVegas           NWS LasVegas (Southern Nevada, Southeastern California, Northwestern Arizona)
 @NWSWakefieldVA
