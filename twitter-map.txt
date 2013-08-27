@@ -1,9 +1,12 @@
 @NWSSPC             NWS Storm Prediction Center (Storm Prediction Center - Norman, Oklahoma)
 @NWSNERFC           ### NE River Forecast Center
+@NWSMBRFC           ### Missouri Basin River Forecast
+@NWS_WCATWC         ### NWS Tsunami Alerts wcatwc.arh.noaa.gov
+@NWS_IMET_OPS       ### wildfire weather
 
 @NWSAberdeen        NWS Aberdeen (Northern and Northeastern South Dakota)
 @NWSAlbany
-@NWSAlbuquerque
+@NWSAlbuquerque     NWS Albuquerque (Northern and Central New Mexico)
 @NWSAmarillo
 @NWSAnchorage
 @NWSAtlanta
@@ -12,7 +15,7 @@
 @NWSBillings
 @NWSBinghamton      NWS Binghamton (South Central New York and Northeastern Pennsylvania)
 @NWSBirmingham
-@NWSBismarck
+@NWSBismarck        NWS Bismarck (Western North Dakota)
 @NWSBlacksburg
 @NWSBoise           NWS Boise (Southwestern Idaho and Eastern Oregon)
 @NWSBoston
@@ -39,12 +42,12 @@
 @NWSFortWorth
 @NWSGJT             NWS GrandJunction (Western Colorado and Eastern Utah)
 @NWSGaylord
-@NWSGlasgow
+@NWSGlasgow         NWS Glasgow (Northeastern Montana)
 @NWSGoodland
 @NWSGrandForks      NWS Eastern ND and Grand Forks (Northeastern North Dakota and Northwestern Minnesota) ###
 @NWSGrandRapids     NWS Grand Rapids (Southwestern Michigan)
 @NWSGray
-@NWSGreatFalls
+@NWSGreatFalls      NWS GreatFalls (Central Montana)
 @NWSGreenBay        NWS GreenBay (East Central Wisconsin - Green Bay)
 @NWSHanford         NWS Hanford (South Central California)
 @NWSHastings
@@ -67,7 +70,6 @@
 @NWSLosAngeles      NWS Oxnard (The Los Angeles Area)
 @NWSLouisville
 @NWSLubbock
-@NWSMBRFC
 @NWSMKX             NWS Milwaukee (Southern and Southeastern Wisconsin)
 @NWSMarquette       NWS Marquette (Northern Michigan)
 @NWSMedford
@@ -75,13 +77,13 @@
 @NWSMemphis
 @NWSMiami           NWS Miami (Southern Florida)
 @NWSMidland
-@NWSMissoula
+@NWSMissoula        NWS Missoula (Western Montana and Central Idaho)
 @NWSMobile
 @NWSMoreheadCity    NWS Newport/Morehead City (Eastern North Carolina)
 @NWSMorristown
 @NWSNashville
 @NWSNewOrleans
-@NWSNewYorkNY
+@NWSNewYorkNY       NWS New York City - Upton (Long Island and New York City)
 @NWSNorman
 @NWSNorthPlatte
 @NWSOmaha           NWS Omaha (Eastern Nebraska and Southeastern Iowa - Omaha Valley)
@@ -95,7 +97,7 @@
 @NWSQuadCities      NWS QuadCities (Eastern Iowa and Northwestern Illinois - Quad Cities)
 @NWSRaleigh
 @NWSRapidCity
-@NWSReno
+@NWSReno            NWS Reno (Western Nevada)
 @NWSRiverton        NWS Riverton (Western Wyoming)
 @NWSSacramento
 @NWSSaltLakeCity    NWS Saltlake (Utah)
@@ -121,8 +123,6 @@
 @NWSWichita
 @NWSWilmingtonNC
 @NWS_BaltWash
-@NWS_IMET_OPS
 @NWS_MountHolly     NWS Philadelphia - Mount Holly (New Jersey, Delaware, Southeastern Pennsylvania)
-@NWS_WCATWC
 @NWSduluth          NWS Duluth (Northeast Minnesota and Northern Wisconsin)
 @NWStulsa
