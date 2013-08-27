@@ -1,8 +1,24 @@
 @NWSSPC             NWS Storm Prediction Center (Storm Prediction Center - Norman, Oklahoma)
-@NWSNERFC           ### NE River Forecast Center
-@NWSMBRFC           ### Missouri Basin River Forecast
 @NWS_WCATWC         ### NWS Tsunami Alerts wcatwc.arh.noaa.gov
 @NWS_IMET_OPS       ### wildfire weather
+@NWSCWSUZLC         ### Aviation CWSU
+
+@NWSABRFC           ### Arkansas-Red Basin FRC
+@NWSCNRFC           ### California Nevada RFC
+@NWSLMRFC           ### Lower MississiPPi RFC
+@NWSMARFC           ### Mid Atlantic RFC
+@NWSMBRFC
+@NWSMBRFC           ### Missouri Basin RFC
+@NWSNERFC
+@NWSNERFC           ### NE RFC
+@NWSOHRFC
+@NWSSERFC
+@NWSWGRFC
+@NWSncrfc           ### North Central RFC
+
+
+@NWSAlaska          ### Alaska Region HQ
+@NWSEasternRegHQ    ###
 
 @NWSAberdeen        NWS Aberdeen (Northern and Northeastern South Dakota)
 @NWSAlbany
@@ -18,11 +34,11 @@
 @NWSBismarck        NWS Bismarck (Western North Dakota)
 @NWSBlacksburg
 @NWSBoise           NWS Boise (Southwestern Idaho and Eastern Oregon)
-@NWSBoston
-@NWSBoulder
+@NWSBoston          NWS Boston (Southeast New England)
+@NWSBoulder         NWS Boulder (Northeastern Colorado)
 @NWSBrownsville
 @NWSBurlington
-@NWSCLE             ### Cleveland
+@NWSCLE             NWS Cleveland (Northern Ohio)
 @NWSCWSUZSE
 @NWSCaribou
 @NWSCharlestonSC    NWS Charleston (the Southern end of South Carolina and Eastern Georgia)
@@ -32,7 +48,7 @@
 @NWSColumbia
 @NWSCorpus          NWS Corpus Christi (Corpus Cristi, Victoria and Laredo)
 @NWSDesMoines       NWS DesMoines (Central Iowa)
-@NWSDetroit
+@NWSDetroit         NWS Detroit (Southeastern Michigan - Detroit Area)
 @NWSDodgeCity
 @NWSElPaso
 @NWSElko
@@ -41,7 +57,7 @@
 @NWSFlagstaff       NWS Flagstaff (Northern Arizona)
 @NWSFortWorth
 @NWSGJT             NWS GrandJunction (Western Colorado and Eastern Utah)
-@NWSGaylord
+@NWSGaylord         NWS Gaylord (Northeast Michigan)
 @NWSGlasgow         NWS Glasgow (Northeastern Montana)
 @NWSGoodland
 @NWSGrandForks      NWS Eastern ND and Grand Forks (Northeastern North Dakota and Northwestern Minnesota) ###
@@ -49,6 +65,7 @@
 @NWSGray
 @NWSGreatFalls      NWS GreatFalls (Central Montana)
 @NWSGreenBay        NWS GreenBay (East Central Wisconsin - Green Bay)
+@NWSGSP             ### NWS Forecast Office Greenville-Spartanburg, SC
 @NWSHanford         NWS Hanford (South Central California)
 @NWSHastings
 @NWSHonolulu        NWS Honolulu (Hawaii)
@@ -73,7 +90,7 @@
 @NWSMKX             NWS Milwaukee (Southern and Southeastern Wisconsin)
 @NWSMarquette       NWS Marquette (Northern Michigan)
 @NWSMedford
-@NWSMelbourne
+@NWSMelbourne       NWS Melbourne (East Central Florida)
 @NWSMemphis
 @NWSMiami           NWS Miami (Southern Florida)
 @NWSMidland
@@ -85,7 +102,7 @@
 @NWSNewOrleans
 @NWSNewYorkNY       NWS New York City - Upton (Long Island and New York City)
 @NWSNorman
-@NWSNorthPlatte
+@NWSNorthPlatte     NWS NorthPlatte (Central Nebraska - North Platte)
 @NWSOmaha           NWS Omaha (Eastern Nebraska and Southeastern Iowa - Omaha Valley)
 @NWSPaducah         NWS Paducah (Southern Illinois and Indiana, Southeastern Missouri and Western Kentucky)
 @NWSPendleton
@@ -101,7 +118,7 @@
 @NWSRiverton        NWS Riverton (Western Wyoming)
 @NWSSacramento
 @NWSSaltLakeCity    NWS Saltlake (Utah)
-@NWSSanAngelo
+@NWSSanAngelo       NWS San Angelo (Central Texas San Angelo)
 @NWSSanAntonio
 @NWSSanDiego        NWS SanDiego (Southwestern California)
 @NWSSanJuan         NWS San Juan (San Juan, Puerto Rico)
@@ -111,7 +128,7 @@
 @NWSSpaceflight
 @NWSSpokane         NWS Spokane (Eastern Washington and Northern Idaho)
 @NWSSpringfield
-@NWSStLouis
+@NWSStLouis         NWS Saint Louis (Eastern Missouri and West Central Illinois)
 @NWSStateCollege
 @NWSTallahassee     NWS Tallahassee (the Florida Peninsula)
 @NWSTampaBay        NWS Tampa Bay (West Central Florida)
@@ -119,7 +136,7 @@
 @NWSTucson          NWS Tucson (Southern Arizona)
 @NWSTwinCities      NWS Minneapolis (Southern Minnesota)
 @NWSVegas           NWS LasVegas (Southern Nevada, Southeastern California, Northwestern Arizona)
-@NWSWakefieldVA
+@NWSWakefieldVA     NWS Wakefield (Eastern Virginia and Southern Maryland)
 @NWSWichita
 @NWSWilmingtonNC
 @NWS_BaltWash
