@@ -21,7 +21,7 @@
 @NWSEasternRegHQ    ###
 
 @NWSAberdeen        NWS Aberdeen (Northern and Northeastern South Dakota)
-@NWSAlbany
+@NWSAlbany          NWS Albany (Eastern New York and Western New England)
 @NWSAlbuquerque     NWS Albuquerque (Northern and Central New Mexico)
 @NWSAmarillo
 @NWSAnchorage
@@ -32,7 +32,7 @@
 @NWSBinghamton      NWS Binghamton (South Central New York and Northeastern Pennsylvania)
 @NWSBirmingham
 @NWSBismarck        NWS Bismarck (Western North Dakota)
-@NWSBlacksburg
+@NWSBlacksburg      NWS Blacksburg (Southwest Virginia)
 @NWSBoise           NWS Boise (Southwestern Idaho and Eastern Oregon)
 @NWSBoston          NWS Boston (Southeast New England)
 @NWSBoulder         NWS Boulder (Northeastern Colorado)
@@ -42,7 +42,7 @@
 @NWSCWSUZSE
 @NWSCaribou
 @NWSCharlestonSC    NWS Charleston (the Southern end of South Carolina and Eastern Georgia)
-@NWSCharlestonWV
+@NWSCharlestonWV    NWS Charleston (West Virginia)
 @NWSCheyenne
 @NWSChicago         NWS Chicago (Northeastern Illinois and Northwestern Indiana)
 @NWSColumbia
@@ -50,19 +50,19 @@
 @NWSDesMoines       NWS DesMoines (Central Iowa)
 @NWSDetroit         NWS Detroit (Southeastern Michigan - Detroit Area)
 @NWSDodgeCity
-@NWSElPaso
-@NWSElko
+@NWSElPaso          NWS El Paso (Southern New Mexico and extreme Western Texas)
+@NWSElko            NWS Elko (Northern and Northeastern Nevada)
 @NWSEureka
 @NWSFairbanks       NWS Fairbanks (Northern Alaska - Fairbanks)
 @NWSFlagstaff       NWS Flagstaff (Northern Arizona)
-@NWSFortWorth
+@NWSFortWorth       NWS Dallas-Fort Worth (Dallas - Forth Worth)
 @NWSGJT             NWS GrandJunction (Western Colorado and Eastern Utah)
 @NWSGaylord         NWS Gaylord (Northeast Michigan)
 @NWSGlasgow         NWS Glasgow (Northeastern Montana)
 @NWSGoodland
 @NWSGrandForks      NWS Eastern ND and Grand Forks (Northeastern North Dakota and Northwestern Minnesota) ###
 @NWSGrandRapids     NWS Grand Rapids (Southwestern Michigan)
-@NWSGray
+@NWSGray            NWS Gray/Portland (Southern Maine)
 @NWSGreatFalls      NWS GreatFalls (Central Montana)
 @NWSGreenBay        NWS GreenBay (East Central Wisconsin - Green Bay)
 @NWSGSP             ### NWS Forecast Office Greenville-Spartanburg, SC
@@ -77,15 +77,15 @@
 @NWSJacksonKY
 @NWSJacksonMS
 @NWSJacksonville    NWS Jacksonville (Northeast Florida and Southeast Georgia)
-@NWSJuneau
+@NWSJuneau          NWS Juneau (Juneau and surrounding areas)
 @NWSKansasCity      NWS Kansas City (Northwestern Missouri)
-@NWSKeyWest
+@NWSKeyWest         NWS Key West (Key West - The Florida Keys)
 @NWSLaCrosse        NWS LaCrosse (Southwestern Wisconsin, Southeastern Minnesota, and Northeast Iowa)
 @NWSLakeCharles     NWS Lake Charles (Southeast Texas and Southwest Louisiana)
 @NWSLincolnIL       NWS Central Illinois (Central and East Central Illinois)
 @NWSLittleRock      NWS Little Rock (Arkansas)
 @NWSLosAngeles      NWS Oxnard (The Los Angeles Area)
-@NWSLouisville
+@NWSLouisville      NWS Louisville (Central Kentucky)
 @NWSLubbock
 @NWSMKX             NWS Milwaukee (Southern and Southeastern Wisconsin)
 @NWSMarquette       NWS Marquette (Northern Michigan)
@@ -98,7 +98,7 @@
 @NWSMobile
 @NWSMoreheadCity    NWS Newport/Morehead City (Eastern North Carolina)
 @NWSMorristown
-@NWSNashville
+@NWSNashville       NWS Nashville (Central Tennessee)
 @NWSNewOrleans
 @NWSNewYorkNY       NWS New York City - Upton (Long Island and New York City)
 @NWSNorman
@@ -107,13 +107,13 @@
 @NWSPaducah         NWS Paducah (Southern Illinois and Indiana, Southeastern Missouri and Western Kentucky)
 @NWSPendleton
 @NWSPhoenix         NWS Phoenix (Central Arizona and California Desert)
-@NWSPittsburgh
+@NWSPittsburgh      NWS Pittsburgh (Western Pennsylvania and East Central Ohio)
 @NWSPocatello       NWS Pocatello (Southeastern Idaho)
 @NWSPortland
-@NWSPueblo
+@NWSPueblo          NWS Pueblo (Southeastern Colorado)
 @NWSQuadCities      NWS QuadCities (Eastern Iowa and Northwestern Illinois - Quad Cities)
 @NWSRaleigh
-@NWSRapidCity
+@NWSRapidCity       NWS RapidCity (Western South Dakota and Northeastern Wyoming)
 @NWSReno            NWS Reno (Western Nevada)
 @NWSRiverton        NWS Riverton (Western Wyoming)
 @NWSSacramento
@@ -129,7 +129,7 @@
 @NWSSpokane         NWS Spokane (Eastern Washington and Northern Idaho)
 @NWSSpringfield
 @NWSStLouis         NWS Saint Louis (Eastern Missouri and West Central Illinois)
-@NWSStateCollege
+@NWSStateCollege    NWS State College (Central Pennsylvania)
 @NWSTallahassee     NWS Tallahassee (the Florida Peninsula)
 @NWSTampaBay        NWS Tampa Bay (West Central Florida)
 @NWSTopeka
