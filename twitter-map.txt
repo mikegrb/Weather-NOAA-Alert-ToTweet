@@ -2,6 +2,7 @@
 @NWS_WCATWC         ### NWS Tsunami Alerts wcatwc.arh.noaa.gov
 @NWS_IMET_OPS       ### wildfire weather
 @NWSCWSUZLC         ### Aviation CWSU
+@NWSSpaceflight
 
 @NWSABRFC           ### Arkansas-Red Basin FRC
 @NWSCNRFC           ### California Nevada RFC
@@ -36,7 +37,7 @@
 @NWSBoise           NWS Boise (Southwestern Idaho and Eastern Oregon)
 @NWSBoston          NWS Boston (Southeast New England)
 @NWSBoulder         NWS Boulder (Northeastern Colorado)
-@NWSBrownsville
+@NWSBrownsville     NWS Brownsville (Southern Texas)
 @NWSBurlington      NWS Burlington (Northern Vermont and New York)
 @NWSCLE             NWS Cleveland (Northern Ohio)
 @NWSCWSUZSE
@@ -119,13 +120,12 @@
 @NWSSacramento
 @NWSSaltLakeCity    NWS Saltlake (Utah)
 @NWSSanAngelo       NWS San Angelo (Central Texas San Angelo)
-@NWSSanAntonio
+@NWSSanAntonio      NWS Austin-San Antonio (Austin - San Antonio)
 @NWSSanDiego        NWS SanDiego (Southwestern California)
 @NWSSanJuan         NWS San Juan (San Juan, Puerto Rico)
-@NWSSeattle
-@NWSShreveport
+@NWSSeattle         NWS Seattle (Northwest Washington)
+@NWSShreveport      NWS Shreveport (Shreveport)
 @NWSSiouxFalls      NWS Sioux Falls (Southeastern SD, Southwestern MN, and Northwestern IA)
-@NWSSpaceflight
 @NWSSpokane         NWS Spokane (Eastern Washington and Northern Idaho)
 @NWSSpringfield
 @NWSStLouis         NWS Saint Louis (Eastern Missouri and West Central Illinois)
