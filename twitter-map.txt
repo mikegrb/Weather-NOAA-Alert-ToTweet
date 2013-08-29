@@ -28,7 +28,7 @@
 @NWSAtlanta
 @NWSBUFFALO         NWS Buffalo (Western New York)
 @NWSBayArea
-@NWSBillings
+@NWSBillings        NWS Billings (Southeastern Montana)
 @NWSBinghamton      NWS Binghamton (South Central New York and Northeastern Pennsylvania)
 @NWSBirmingham
 @NWSBismarck        NWS Bismarck (Western North Dakota)
@@ -37,13 +37,13 @@
 @NWSBoston          NWS Boston (Southeast New England)
 @NWSBoulder         NWS Boulder (Northeastern Colorado)
 @NWSBrownsville
-@NWSBurlington
+@NWSBurlington      NWS Burlington (Northern Vermont and New York)
 @NWSCLE             NWS Cleveland (Northern Ohio)
 @NWSCWSUZSE
-@NWSCaribou
+@NWSCaribou         NWS Caribou (Northern Maine)
 @NWSCharlestonSC    NWS Charleston (the Southern end of South Carolina and Eastern Georgia)
 @NWSCharlestonWV    NWS Charleston (West Virginia)
-@NWSCheyenne
+@NWSCheyenne        NWS Cheyenne (Southeastern Wyoming and Western Nebraska)
 @NWSChicago         NWS Chicago (Northeastern Illinois and Northwestern Indiana)
 @NWSColumbia
 @NWSCorpus          NWS Corpus Christi (Corpus Cristi, Victoria and Laredo)
@@ -71,10 +71,10 @@
 @NWSHonolulu        NWS Honolulu (Hawaii)
 @NWSHouston         NWS Houston - Galveston (Houston - Galveston)
 @NWSHuntsville
-@NWSILN             ### Wilmington OH
+@NWSILN             NWS Wilmington (Southwestern Ohio)
 @NWSIWX             NWS NorthernIndiana (Northern Indiana and Northeastern Ohio)
 @NWSIndianapolis    NWS Indianapolis (Central Indiana)
-@NWSJacksonKY
+@NWSJacksonKY       NWS Jackson (Eastern Kentucky)
 @NWSJacksonMS
 @NWSJacksonville    NWS Jacksonville (Northeast Florida and Southeast Georgia)
 @NWSJuneau          NWS Juneau (Juneau and surrounding areas)
