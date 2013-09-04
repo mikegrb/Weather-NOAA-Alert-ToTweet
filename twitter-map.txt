@@ -23,6 +23,9 @@
 @NWSAlaska          ### Alaska Region HQ
 @NWSEasternRegHQ    ###
 
+NONE                NWS American Samoa (Pago Pago, American Samoa)
+                    NWS Guam (Guam)
+
 @NWSAberdeen        NWS Aberdeen (Northern and Northeastern South Dakota)
 @NWSAlbany          NWS Albany (Eastern New York and Western New England)
 @NWSAlbuquerque     NWS Albuquerque (Northern and Central New Mexico)
